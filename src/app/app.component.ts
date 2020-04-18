@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
 //import { Label } from 'ng2-charts';
 
 @Component({
-  selector: 'app-root',//my-app
+  selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
